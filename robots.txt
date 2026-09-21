@@ -1,0 +1,6 @@
+# robots.txt for Yaaha Solutions
+User-agent: *
+Allow: /
+
+# Sitemap URL
+Sitemap: https://yaahasolutions.com/sitemap.xml
